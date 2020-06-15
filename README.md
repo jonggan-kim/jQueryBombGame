@@ -1,7 +1,8 @@
 # jQueryBombGame
 Bomb game using jQuery
 
-
+<img width=100 src = "./img_bomb/failed.png">
+<img width=100 src = "./img_bomb/success.png">
 
 
 <!DOCTYPE html>
